@@ -4,6 +4,7 @@
 Two sources of data:
 > United Health Foundation, _America's Health Rankings_: https://www.americashealthrankings.org/explore/annual
 > Wallet Hub: _Happiest states in America_: https://wallethub.com/edu/happiest-states/6959/
+> Kaggle: _US state county name & codes_ (?)
 
 ## Data Cleanup & Analysis
 Perform ETL on the data. Make sure to plan and document the following:
