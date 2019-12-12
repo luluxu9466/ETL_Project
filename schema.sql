@@ -38,8 +38,8 @@ pollution_source_year TEXT
 CREATE TABLE happiness_score (
 id INT PRIMARY KEY,
 overall_rank INT,
-emotphys_rank INT,
-state TEXT,
+emotional_rank INT,
+us_state TEXT,
 population INT
 );
 
