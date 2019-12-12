@@ -9,7 +9,7 @@ Two sources of data:
 Perform ETL on the data. Make sure to plan and document the following:
 
 * The sources of data that you will extract from:
- ⋅⋅* United Health Foundation, _America's Health Rankings_: https://www.americashealthrankings.org/explore/annual
+ ..1. United Health Foundation, _America's Health Rankings_: https://www.americashealthrankings.org/explore/annual
  ⋅⋅* Wallet Hub: _Happiest states in America_: https://wallethub.com/edu/happiest-states/6959/
 * The type of transformation needed for this data (cleaning, joining, filtering, aggregating, etc).
   ⋅⋅* Cleaning
