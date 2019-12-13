@@ -10,8 +10,8 @@ id INT PRIMARY KEY,
 mental_state TEXT,
 mental_measure_name TEXT,
 mental_rank integer,
-mental_Score FLOAT,
-mental_Source TEXT,
+mental_score FLOAT,
+mental_source TEXT,
 mental_source_year TEXT
 );
 
