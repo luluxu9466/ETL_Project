@@ -19,7 +19,7 @@ Perform ETL on the data. Make sure to plan and document the following:
 ## Project Report
 Submit a Final Report that describes the following:
 
-* Extract: your original data sources and how the data was formatted (CSV, JSON, pgAdmin 4, etc).
+* Extract: your original data sources and how the data was formatted.
 * Transform: what data cleaning or transformation was required.
 * Load: the final database, tables/collections, and why this was chosen.
 
